@@ -1,6 +1,6 @@
 # Devonthink CSS Themes
 
-这个仓库仅保留 css/ 目录中的主题样式表，用于 Markdown 预览（Typora / DEVONthink / 其他支持自定义 CSS 的应用）。
+这个仓库仅保留 css/ 目录中的主题样式表，用于 Markdown 预览（DEVONthink / 其他支持自定义 CSS 的应用）。
 
 - 来源与致谢：最初基于 imageslr 的 mweb-themes 项目做取舍与调整：https://github.com/imageslr/mweb-themes
 - 本仓库目标：精简并仅保留我当前在用的 CSS 主题，方便在不同设备间同步与发布。
@@ -11,11 +11,11 @@
   - light/
   - dark/
 
-## 使用方式（以 Typora 为例）
+## 使用方式（以 DEVONthink 为例）
 
-1. 打开 Typora 偏好设置 → 外观 → 主题 → 打开主题文件夹。
-2. 将 css/ 下对应的主题 CSS 文件复制到主题文件夹中（保持 light/dark 内的 CSS 文件结构即可）。
-3. 重启或刷新 Typora 后，在主题列表中选择相应主题。
+1. 打开 DEVONthink 设置 Settings → Files → Markdown → Style Sheets。
+2. 点击“添加”按钮，选择 css/ 下对应的主题 CSS 文件。
+3. 重新预览 Markdown 页面即可看到主题，切换主题需重新选择 CSS 文件。
 
 在 DEVONthink 中，也可以将同名 CSS 引入到 Markdown 的渲染设置中使用。
 
@@ -26,7 +26,7 @@
 
 ## 许可
 
-- 遵循原项目的许可协议（如有不同会在后续版本中明确说明）。
+- CC BY-NC-SA 4.0
 
 ## 反馈
 
